@@ -1,5 +1,13 @@
-<h1 align="left">Hi 👋, Call me Blahze/Matheus</h1>
+
+
+<p align=center>
+  <a href="https://discord.com/users/702159131775336568"><img src="https://lanyard-profile-readme.vercel.app/api/702159131775336568" width=45%></a>
+</p>
+<h1 align="center">Hi 👋, Call me Blahze/Matheus</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=black0439&color=red" alt="Profile views" /> </p>
+
+
 
 - Junior Game Developer & Web Developer
 
