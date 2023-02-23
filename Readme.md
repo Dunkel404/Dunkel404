@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Hi 👋, Call me Blahze/Matheus</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=black0439&color=red" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=black0439&color=green" alt="Profile views" /> </p>
 
 
 
