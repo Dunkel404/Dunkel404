@@ -1,8 +1,6 @@
 
 
-<p align=center>
-  <a href="https://discord.com/users/702159131775336568"><img src="https://lanyard-profile-readme.vercel.app/api/702159131775336568" width=45%></a>
-</p>
+
 <h1 align="center">Hi 👋, Call me Blahze/Matheus</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dunkel404&color=green" alt="Profile views" /> </p>
