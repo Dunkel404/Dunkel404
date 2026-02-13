@@ -13,15 +13,16 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Skills
+# 🛠 &nbsp;Tech Skills
 
-![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=800080)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![DotNet](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=dotnet)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+## 3D and Design Skills
+[![My Skills](https://skillicons.dev/icons?i=css,blender,ps,ai,threejs,unity,robloxstudio,ae&perline=6)](https://skillicons.dev)
+
+## Programming Skills 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,react,js,nextjs,threejs,postgresql,mysql,neovim,lua,linux,arch,bash,unity,robloxstudio&perline=6)](https://skillicons.dev)
+
+
 
 <br><br>
 
