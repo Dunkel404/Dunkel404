@@ -20,7 +20,7 @@
 
 ## Programming Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,react,js,nextjs,threejs,postgresql,mysql,neovim,lua,linux,arch,bash,unity,robloxstudio&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,react,nextjs,threejs,postgresql,mysql,neovim,lua,linux,arch,bash,unity,robloxstudio&perline=6)](https://skillicons.dev)
 
 
 
